@@ -1,8 +1,5 @@
 [project]
 name = "ecomm-prod-assistant"
-    authors = [
-        { name = "Niles Gode", email = "nileshg6716@gmail.com" },
-    ]
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
