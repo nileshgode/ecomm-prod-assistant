@@ -16,7 +16,7 @@ class Retriever:
     def __init__(self):
         """_summary_
         """
-        self.model_loader=ModelLoader()pyth
+        self.model_loader=ModelLoader()
         self.config=load_config()
         self._load_env_variables()
         self.vstore = None
