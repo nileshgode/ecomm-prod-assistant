@@ -1,0 +1,174 @@
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+{"timestamp": "2025-09-06T14:56:13.041939Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-06T14:56:13.043004Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-06T14:56:13.043956Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-06T14:56:13.045959Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-06T14:56:13.058591Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-06T14:56:13.098862Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+{"timestamp": "2025-09-06T14:59:25.647244Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-06T14:59:25.650773Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-06T14:59:25.651147Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-06T14:59:25.652424Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-06T14:59:25.658920Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-06T14:59:25.675253Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+python-dotenv could not parse statement starting at line 5
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+{"timestamp": "2025-09-06T15:10:59.137883Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-06T15:10:59.139121Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-06T15:10:59.140350Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-06T15:10:59.141378Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-06T15:10:59.151549Z", "level": "info", "event": "YAML config loaded"}
+python-dotenv could not parse statement starting at line 5
+python-dotenv could not parse statement starting at line 6
+python-dotenv could not parse statement starting at line 7
+{"model": "models/text-embedding-004", "timestamp": "2025-09-06T15:10:59.177183Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+{"timestamp": "2025-09-07T02:08:43.684918Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:08:43.690965Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:08:43.696418Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:08:43.696418Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:08:43.701293Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:08:43.720626Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+{"timestamp": "2025-09-07T02:15:23.622187Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:15:23.622187Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:15:23.622187Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:15:23.622187Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:15:23.627875Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:15:23.641704Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+{"timestamp": "2025-09-07T02:18:33.979640Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:18:33.979640Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:18:33.979640Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:18:33.981648Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:18:33.985579Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:18:33.999648Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+{"timestamp": "2025-09-07T02:18:59.961585Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:18:59.961585Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:18:59.965963Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:18:59.965963Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:18:59.974058Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:19:00.010042Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+{"timestamp": "2025-09-07T02:20:57.779458Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:20:57.779458Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:20:57.779458Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:20:57.779458Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:20:57.790391Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:20:57.802041Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+{"timestamp": "2025-09-07T02:21:27.236434Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:21:27.238455Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:21:27.239026Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:21:27.239026Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:21:27.245627Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:21:27.259848Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+{"timestamp": "2025-09-07T02:24:22.793998Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:24:22.796197Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:24:22.800348Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:24:22.800348Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:24:22.833811Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:24:22.935299Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+{"timestamp": "2025-09-07T02:27:14.763013Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:27:14.763013Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:27:14.763013Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:27:14.763013Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:27:14.771602Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:27:14.785751Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+{"timestamp": "2025-09-07T02:27:26.249237Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:27:26.249237Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:27:26.249237Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:27:26.249237Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:27:26.257279Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:27:26.302745Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+{"timestamp": "2025-09-07T02:34:24.740848Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:34:24.740848Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:34:24.740848Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:34:24.752470Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:34:24.752470Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:34:24.767475Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+patching driver executable C:\Users\niles\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+{"timestamp": "2025-09-07T02:52:22.206387Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-07T02:52:22.210048Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-07T02:52:22.210048Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-07T02:52:22.211216Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-07T02:52:22.213268Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-07T02:52:22.234822Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
+No valid keyspace found in environment variable.
+Detecting API environment 'prod' from supplied endpoint
+createCollection('ecommercedata')
+HTTP Request: POST https://6cd952c6-3073-4d1f-8331-f86d944786a8-us-east-2.apps.astra.datastax.com/api/json/v1/default_keyspace "HTTP/1.1 401 Unauthorized"
