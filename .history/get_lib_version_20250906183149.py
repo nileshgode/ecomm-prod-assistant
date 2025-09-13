@@ -3,7 +3,6 @@ packages = [
     "langchain",
     "python-dotenv",
     "langchain_core"
-    "langgraph"
 ]
 for pkg in packages:
     try:
