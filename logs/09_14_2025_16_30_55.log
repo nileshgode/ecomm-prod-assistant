@@ -1,0 +1,5 @@
+{"timestamp": "2025-09-14T11:00:56.393653Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-14T11:00:56.394657Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-14T11:00:56.394657Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_TD...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-14T11:00:56.394657Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-14T11:00:56.397139Z", "level": "info", "event": "YAML config loaded"}
